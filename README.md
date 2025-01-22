@@ -1,2 +1,2 @@
-# ayushisinha.github.io
-Personal website
+# README
+This is the code repo for Ayushi Sinha's personal website.
